@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eSLAW9OyzpU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lol75\\source\\repos\\E-Ticarett\\E-Ticarett\\E-Ticarett.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lol75\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512"
+  ],
+  "logs": []
+}

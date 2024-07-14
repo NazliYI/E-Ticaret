@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bes4ATT4MTk=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\lol75\\source\\repos\\E-TicaretSitessi\\TicaretSitessi.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\lol75\\source\\repos\\Ticaret.Infrastructure\\Ticaret.Infrastructure.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\lol75\\source\\repos\\Ticaret.Infrastructure\\Ticaret.Infrastructure.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\lol75\\source\\repos\\Ticaret.Core\\Ticaret.Core.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\lol75\\source\\repos\\Ticaret.Core\\Ticaret.Core.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

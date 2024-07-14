@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "C:\\Users\\lol75\\source\\repos\\Ticaret.Core\\Ticaret.Core.csproj",
+      "C:\\Users\\lol75\\source\\repos\\Ticaret.Infrastructure\\Ticaret.Infrastructure.csproj"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\lol75\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\lol75\\source\\repos\\E-TicaretSitessi\\TicaretSitessi.csproj",
+      "projectName": "TicaretSitessi",
+      "projectPath": "C:\\Users\\lol75\\source\\repos\\E-TicaretSitessi\\TicaretSitessi.csproj",
+      "packagesPath": "C:\\Users\\lol75\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lol75\\source\\repos\\E-TicaretSitessi\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\lol75\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\lol75\\source\\repos\\Ticaret.Core\\Ticaret.Core.csproj": {
+              "projectPath": "C:\\Users\\lol75\\source\\repos\\Ticaret.Core\\Ticaret.Core.csproj"
+            },
+            "C:\\Users\\lol75\\source\\repos\\Ticaret.Infrastructure\\Ticaret.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\lol75\\source\\repos\\Ticaret.Infrastructure\\Ticaret.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\lol75\\source\\repos\\Ticaret.Infrastructure\\Ticaret.Infrastructure.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\lol75\\source\\repos\\Ticaret.Infrastructure\\Ticaret.Infrastructure.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\lol75\\source\\repos\\Ticaret.Core\\Ticaret.Core.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\lol75\\source\\repos\\Ticaret.Core\\Ticaret.Core.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
